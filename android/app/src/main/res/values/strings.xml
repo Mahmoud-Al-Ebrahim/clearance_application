@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Clearance</string>
+    <string name="facebook_app_id">3172745352998923</string>
+    <string name="fb_login_protocol_scheme">fb3172745352998923</string>
+    <string name="facebook_client_token">16807905fd522771e4333a37e46fb828</string>
+</resources>
